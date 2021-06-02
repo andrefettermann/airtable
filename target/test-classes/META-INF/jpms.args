@@ -1,0 +1,4 @@
+--patch-module
+afett.airtable=_
+--add-reads
+afett.airtable=ALL-UNNAMED

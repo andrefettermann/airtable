@@ -1,0 +1,12 @@
+br\com\afett\airtable\entities\Field.class
+br\com\afett\airtable\daos\DAOFactory.class
+module-info.class
+br\com\afett\airtable\entities\AirTable.class
+br\com\afett\airtable\models\AirTableModel.class
+br\com\afett\airtable\daos\DAOFactoryImpl.class
+br\com\afett\airtable\daos\AirTableDAOImpl.class
+br\com\afett\airtable\exceptions\BaseException.class
+br\com\afett\airtable\App.class
+br\com\afett\airtable\daos\AirTableDAO.class
+br\com\afett\airtable\entities\Record.class
+br\com\afett\airtable\entities\Base.class
